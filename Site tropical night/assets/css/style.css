@@ -173,7 +173,7 @@ small, .small { font-size:.8rem; opacity:.82; }
 .hero .date { margin:.1rem 0 .4rem; display:inline-block; }
 
 /* --- Overrides : agrandissement supplémentaire hero (logo, date, countdown) --- */
-.hero-logo { width:min(85vw,600px); margin-top:3.8rem; margin-bottom:.65rem; }
+.hero-logo { width:min(85vw,600px); margin-top: 0.1rem; margin-bottom:.65rem; }
 .date { font-size:clamp(1.9rem,4.2vw,3.3rem); }
 .countdown { gap:1.45rem; margin:3rem 0 0; }
 .countdown div { padding:1.3rem 1.35rem; min-width:110px; border-radius:30px; }
